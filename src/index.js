@@ -11,8 +11,8 @@ import './index.css';
 
 const baseUrl =
 	window.location.host === 'localhost:3000'
-		? `/yummy-react-frontend`
-		: '/yummy-react-frontend';
+		? `/react_node_fs_58_smisyuk4`
+		: '/react_node_fs_58_smisyuk4';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
 	<React.StrictMode>
